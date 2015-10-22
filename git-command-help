@@ -1,0 +1,17 @@
+
+Global Setup -
+
+	$ git config --global user.name "codeonthefloor"
+	$ git config --global user.email "codeonthefloor@gmail.com"
+
+Next Step -
+	$ mkdir git
+	$ cd git
+	git$ git init 
+	git$ touch readme
+	git$ git add readme
+	git$ git commit -m "First commit" 
+	git$ git remote origin https://github.com/codeonthefloor/Learn-git.git
+	git$ git push -u origin master	 
+	git$ git  
+	
